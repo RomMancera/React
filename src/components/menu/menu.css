@@ -1,0 +1,30 @@
+.MenuCard{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F474x%2Ff9%2F25%2F2a%2Ff9252a0e7ffac31aa63a675acb767631.jpg&f=1&nofb=1&ipt=5e35b39a05a3fddc6de3716e0367f34400c9c1a6eab41b25b8deca854937b3fe&ipo=images);
+    max-width: 22.5rem;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.uno{
+    text-align:left;
+    padding: 8px;
+    color: white;
+}
+
+.dos{
+    text-align:center;
+    padding: 8px;
+    color: white;
+}
+
+.tres{
+    text-align:right;
+    padding: 8px;
+    color: white;
+}
+
+.images{
+    max-width: 80px;
+    max-height: 80px;
+    border-radius: 4px; 
+}

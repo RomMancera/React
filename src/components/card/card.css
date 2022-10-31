@@ -1,0 +1,34 @@
+.contenedor {
+    display: flex;
+    min-width: 100vh;
+    background-color:grey;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.imagen-rb {
+    max-width: 300px;
+    min-height: 250px;
+    background-size: cover;
+}
+
+.nombre {
+    display: flex;
+    font-size: 3rem;
+    justify-content: center;
+}
+
+.descripcion {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.texto {
+    font-size: 1rem;
+}
+
+.container-texto {
+    display: block;
+    padding: 50px;
+}
